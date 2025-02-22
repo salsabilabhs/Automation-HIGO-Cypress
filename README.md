@@ -15,7 +15,7 @@ Test Cases for HIGO's Official Website:
 3. User validate menu Layanan HIGO (WiFi Advertising) ✔️
 4. User validate menu Studi Kasus 
 5. User validate menu Digital Reports
-6. User validate menu Hubungi HIGO
+6. User validate menu Hubungi HIGO ✔️
 7. User submit needs/questions for HIGO using valid credentials on menu Hubungi HIGO
 8. User submit needs/questions for HIGO using invalid credentials on menu Hubungi HIGO
 9. User submit needs/questions for HIGO when fields are empty on menu Hubungi HIGO
