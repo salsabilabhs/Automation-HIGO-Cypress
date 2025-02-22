@@ -1,0 +1,53 @@
+{
+    "wifiadvertising_submenu_text": "WiFi Advertising",
+    "higospot_submenu_text": "HIGOspot",
+    "agency_submenu_text": "Integrated Digital Agency",
+
+    "title_text":"WiFi Advertising",
+    "desc_text": "Optimalkan performa iklan dengan strategi yang tepat, menjangkau target audiens yang spesifik dan sesuai kebutuhan untuk hasil yang lebih maksimal dengan WiFi Advertising.",
+    "footprint_text": "Footprint HIGO",
+    "footprint_desc_text": "Layanan WiFi Advertising HIGO telah menjangkau audiens di lebih dari 2000+ titik lokasi.",
+
+    "mrt_text":"MRT Jakarta",
+    "transjkt_text":"Transjakarta",
+    "asdp_text":"ASDP",
+    "airplane_text":"Airplane",
+    "foodbeverage_text": "Food & Beverage",
+    "livingquarter_text": "Living Quarter",
+    "lrt_text":"LRT",
+    "officelocation_text":"Office Location",
+    "shoppingdestination_text": "Shopping Destination",
+
+    "kenaliuser_text": "Kenali pengguna melalui 4 langkah pendekatan yang lebih personal",
+    "pembuatanprofil_text": "Pembuatan profil",
+    "pembuatanprofil_desc_text": "User mengisi informasi seperti nama, email, nomor telepon, dan tanggal lahir untuk menyediakan ads yang relevan.",
+    "penayangan_text": "Penayangan",
+    "penayangan_desc_text": "Ads berupa gambar statis selama 3 detik.",
+    "interaksi_text": "Interaksi",
+    "interaksi_desc_text": "Menampilkan ads interaktif berupa game, video, ataupun survey.",
+    "responlangsung_text": "Respons langsung",
+    "responlangsung_desc_text": "Tahap di mana user dibawa keluar dari environment HIGO ke aset digital yang dipilih, seperti website, landing page, e-commerce, atau media sosial.",
+
+    "campaign_text": "Maksimalkan campaign dengan CTR & completed view  ",
+    "campaign_desc_text": "HIGO membantu mendapatkan wawasan komprehensif tentang aktivitas iklan dengan 'Estimated Completed View' dan 'Estimated Click Through Rate'.",
+    "estimatedclick_text": "Estimated click through rate",
+    "estimatedclick_desc_text": "Optimalkan strategi marketing dan tingkatkan interaksi user. Insight ini dapat membantu mengukur daya tarik iklan dengan metrik HIGO yang akurat.",
+    "estimatedview_text": "Estimated completed view",
+    "estimatedview_desc_text":"Tingkatkan strategi iklan dengan metrik akurat dari HIGO. Insight ini dapat membantu menilai aktivitas campaign, mengoptimalkan konten, dan memastikan pesan diterima dengan maksimal.",
+
+    "keuntungan_text": "Keuntungan menggunakan WiFi ads",
+    "keuntungan_desc_text": "Jadikan setiap campaign lebih personalized dan wujudkan koneksi yang positif dan kuat dengan pelanggan.",
+    "keuntungan1_text": "Menargetkan audiens secara terarah",
+    "keuntungan1_desc_text": "Targetkan audiens secara spesifik baik digital ataupun offline di kota besar Indonesia.",
+    "keuntungan2_text": "Audiens berkualitas",
+    "keuntungan2_desc_text": "Semua audiens yang terhubung melalui HIGO adalah nyata; tidak ada bot yang tercatat sebagai audiens.",
+    "keuntungan3_text": "Konten & tujuan terkustomisasi sepenuhnya",
+    "keuntungan3_desc_text": "Sesuaikan tujuan WiFi dengan fitur interaktif seperti games dan quiz atau artikel.",
+    "keuntungan4_text": "Insight audiens mendalam",
+    "keuntungan4_desc_text": "Dapatkan insight lebih dari sekadar perilaku digital, termasuk lokasi spesifik yang tidak terlihat di iklan digital biasa.",
+
+    "mitrakami_text": "Mitra kami",
+    "targetaudience_text": "Capai hasil campaign lebih efektif dengan targeted audience dari HIGO.",
+    "beriklansekarang_btn_text": "Beriklan sekarang"
+
+}
