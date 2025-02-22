@@ -10,10 +10,10 @@ This automation script is including:
 3. Elements & Actions file
 
 Test Cases for HIGO's Official Website:
-1. User validate Home Page
-2. User validate menu Tentang HIGO
-3. User validate menu Layanan HIGO
-4. User validate menu Studi Kasus
+1. User validate Home Page ✔️
+2. User validate menu Tentang HIGO ✔️
+3. User validate menu Layanan HIGO (WiFi Advertising) ✔️
+4. User validate menu Studi Kasus 
 5. User validate menu Digital Reports
 6. User validate menu Hubungi HIGO
 7. User submit needs/questions for HIGO using valid credentials on menu Hubungi HIGO
