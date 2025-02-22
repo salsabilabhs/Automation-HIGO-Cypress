@@ -1,0 +1,16 @@
+{
+    "title_text":"Hubungi tim HIGO",
+    "desc_text":"Kirimkan pesan atau pertanyaan dan tim HIGO siap membantu memberikan tanggapan.",
+    
+    "higo_email_text":"info@higo.id",
+    "higo_phone_text":"(021) 5806860",
+    "higo_location_text":"Jl. Panjang Raya, Kedoya Elok Plaza, Blok DA No.3-4, RT.19/RW.4, South Kedoya, Kebonjeruk, West Jakarta City, Jakarta 11520",
+    
+    "form_title_text":"Sampaikan kebutuhan/pertanyaan untuk HIGO",
+    "namalengkap_error_msg":"Isi nama kamu",
+    "email_error_msg":"Isi email kamu",
+    "notelp_error_msg":"Isi dengan nomor telpon kamu",
+    "pesan_error_msg":"Isi nama usaha kamu",
+
+    "submit_success_text":"Pesan Anda berhasil terkirim."
+}
