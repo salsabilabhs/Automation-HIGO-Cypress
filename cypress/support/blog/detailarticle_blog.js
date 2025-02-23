@@ -11,6 +11,8 @@ class detailarticle_blog {
     balas_fieldnama="(//input[@placeholder='Tulis Nama Kamu'])[2]"
     balas_fieldkomentar="(//textarea[@placeholder='Tulis Komentar Kamu'])[2]"
     submit_balas_btn="(//button[@type='submit'][normalize-space()='Kirim'])[2]"
+
+    likes_btn="(//button[@class='grid grid-flow-col items-center gap-1'][normalize-space()='0'])[1]"
     
 }
 module.exports = new detailarticle_blog()

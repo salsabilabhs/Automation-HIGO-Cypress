@@ -16,11 +16,15 @@ describe('User submit Balas on Komentar of article detail', () => {
                 Cypress.require('cypress-xpath');
                 cy.visit('/alasan-personalized-marketing-penting-di-tahun-2025', { failOnStatusCode: false })
 
+                cy.xpath(detailarticle_blog.likes_btn).should('be.visible').click()
+
                 // ELEMENT TIDAK BISA DIINTERAKSI MENGGUNAKAN AUTOMATION, HARUS DIDISCUSS BERSAMA DEV.
 
                 cy.xpath(detailarticle_blog.balas_btn).should('be.visible').invoke('click')
                 cy.xpath(detailarticle_blog.balas_fieldnama).should('be.visible').invoke('val', data.nama_valid)
                 cy.xpath(detailarticle_blog.balas_fieldkomentar).should('be.visible').invoke('val', data.komentar_valid)
+
+                
             })
         })
     })
