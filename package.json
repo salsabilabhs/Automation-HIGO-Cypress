@@ -1,0 +1,20 @@
+{
+  "name": "automation-higo-cypress",
+  "version": "1.0.0",
+  "description": "This automation script is for testing HIGO's Official Website & Blog\r 1. https://higo.id/\r 2. https://blog.higo.id/",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsabilabhs/Automation-HIGO-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salsabilabhs/Automation-HIGO-Cypress/issues"
+  },
+  "homepage": "https://github.com/salsabilabhs/Automation-HIGO-Cypress#readme"
+}
