@@ -3,6 +3,9 @@
     "komentar_valid":"test-Tulisan yang sangat informatif dan menarik! Penjelasannya jelas, sistematis, dan mudah dipahami, membuat topik yang dibahas terasa lebih ringan dan relevan. Saya sangat mengapresiasi bagaimana artikel ini memberikan wawasan yang mendalam tanpa terasa membosankan. Ditambah lagi, contoh-contoh yang diberikan membantu memperjelas konsep sehingga lebih mudah diaplikasikan dalam kehidupan sehari-hari. Selain itu, penggunaan bahasa yang santai namun tetap profesional membuat pembaca merasa nyaman saat menyerap informasi. Artikel ini benar-benar bermanfaat, terutama bagi mereka yang ingin memahami topik ini dengan lebih baik. Terima kasih sudah berbagi pengetahuan dengan begitu rinci dan menarik! Semoga terus menghasilkan konten berkualitas seperti ini. Saya akan menantikan artikel-artikel berikutnya!",
 
     "nama_invalid":"            ",
-    "komentar_invalid":"              "
+    "komentar_invalid":"              ",
+
+    "nama_error_text":"Isi nama kamu",
+    "komentar_error_text":"Isi komen kamu"
 
 }
