@@ -15,3 +15,9 @@
 require('cypress-xpath');
 // Import commands.js using ES2015 syntax:
 import './commands'
+
+// Cypress.on('uncaught:exception', (err, runnable) => {
+//     if (err.message.includes('Minified React error #425')) {
+//       return false;  // Prevent Cypress from failing the test
+//     }
+//   });

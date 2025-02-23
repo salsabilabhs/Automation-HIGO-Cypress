@@ -1,4 +1,4 @@
-import layananhigo_page from "../support/website/layananhigo_page"
+import layananhigo_page from "../../support/website/layananhigo_page"
 
 describe('User validate menu Layanan HIGO', () => {
 

@@ -1,4 +1,4 @@
-import home_page from "../support/website/home_page"
+import home_page from "../../support/website/home_page"
 
 describe('User validate Home Page', () => {
     beforeEach(() => {

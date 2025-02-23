@@ -1,0 +1,23 @@
+{
+    "firstname_valid": "test-Salsabila",
+    "lastname_valid": "Bahhas",
+    "email_valid":"testsalsabila@higo.id",
+    "whatsapp_valid":"test-085156622850",
+    "companyname_valid":"test-PT Sumber Jaya Indah",
+    "jobtitle_valid":"test-QA",
+
+    "firstname_invalid": "        ",
+    "lastname_invalid": "         ",
+    "email_invalid":"testsalsabila@email",
+    "whatsapp_invalid":"          ",
+    "companyname_invalid":"        ",
+    "jobtitle_invalid":"        ",
+
+    "captcha_error_text":"Cloudflare Turnstile token tidak valid atau varifikasi Turnstile tidak sukses.",
+    "firstname_error_text":"Nama depan tidak boleh kosong. Silakan masukkan nama depan anda",
+    "lastname_error_text":"Nama belakang tidak boleh kosong. Silakan masukkan nama belakang anda",
+    "email_error_text":"Email kerja tidak boleh kosong. Silakan masukkan email kerja/perusahaan/institusi anda",
+    "whatsapp_error_text":"Nomor telepon tidak boleh kosong. Silakan isi dengan nomer telpon yang memiliki nomor Whatsapp",
+    "companyname_error_text":"Nama perusahaan tidak boleh kosong. Silakan isi dengan nama perusahaan/institusi anda",
+    "jobtitle_error_text":"Jabatan tidak boleh kosong. Silakan masukkan jabatan anda"
+}

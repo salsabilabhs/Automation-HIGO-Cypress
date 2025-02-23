@@ -1,4 +1,4 @@
-import hubungihigo_page from "../support/website/hubungihigo_page"
+import hubungihigo_page from "../../support/website/hubungihigo_page"
 
 describe('User User validate menu Hubungi HIGO', () => {
     beforeEach(() => {

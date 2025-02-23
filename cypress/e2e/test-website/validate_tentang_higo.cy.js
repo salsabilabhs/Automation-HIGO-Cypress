@@ -1,4 +1,4 @@
-import tentanghigo_page from "../support/website/tentanghigo_page"
+import tentanghigo_page from "../../support/website/tentanghigo_page"
 
 describe('User validate Tentang HIGO Page', () => {
     beforeEach(() => {

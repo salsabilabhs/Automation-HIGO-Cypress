@@ -7,10 +7,25 @@
     "higo_location_text":"Jl. Panjang Raya, Kedoya Elok Plaza, Blok DA No.3-4, RT.19/RW.4, South Kedoya, Kebonjeruk, West Jakarta City, Jakarta 11520",
     
     "form_title_text":"Sampaikan kebutuhan/pertanyaan untuk HIGO",
+
+    "namalengkap_valid":"test-Salsabila Bahhas",
+    "email_valid":"testsalsabila@email.com",
+    "notelp_valid":"+628737263781",
+    "namaclient_valid":"test-PT Sumber Jaya Indah",
+    "pesan_valid":"test-Saya tertarik untuk join!",
+    
+    "namalengkap_invalid":"         ",
+    "email_invalid":"testsalsabila@email",
+    "notelp_invalid":"12737263781",
+    "namaclient_invalid":"        ",
+    "pesan_invalid":"         ",
+
+    
     "namalengkap_error_msg":"Isi nama kamu",
     "email_error_msg":"Isi email kamu",
     "notelp_error_msg":"Isi dengan nomor telpon kamu",
-    "pesan_error_msg":"Isi nama usaha kamu",
+    "namaclient_error_msg":"Isi nama usaha kamu",
+    "pesan_error_msg":"Isi dengan pesan kamu",
 
     "submit_success_text":"Pesan Anda berhasil terkirim."
 }

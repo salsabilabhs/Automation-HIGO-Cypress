@@ -20,7 +20,7 @@ class hubungihigo_page {
     textbox_pesan="//textarea[@placeholder='Tulis pesan kamu']"
     submit_btn="//button[normalize-space()='Submit']"
 
-    namalengkap_show_error="(//p[@class='text-xs text-red-500'][normalize-space()='Isi nama kamu'])[2]"
+    namalengkap_show_error="/html/body/main/div/section[2]/div/form/div[1]/p"
     email_show_error="//p[normalize-space()='Isi email kamu']"
     notelp_show_error="//p[normalize-space()='Isi dengan nomor telpon kamu']"
     namaclient_show_error="//p[normalize-space()='Isi nama usaha kamu']"
