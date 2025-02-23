@@ -23,13 +23,13 @@ Test Cases for HIGO's Official Website:
 11. User validate Footer
 
 Test Cases for HIGO's Blog:
-1. User validate menu Blog
+1. User validate menu Blog 
 2. User validate search article ✔️
-3. User validate topic article chips
-4. User validate article detail from Artikel Terbaru
-5. User validate article detail from Artikel Populer
-6. User validate article detail from the Category list
-7. User validate topic article chips from Topik Populer
+3. User validate topic article chips ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+4. User validate article detail from Artikel Terbaru ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+5. User validate article detail from Artikel Populer ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+6. User validate article detail from the Category list ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+7. User validate topic article chips from Topik Populer ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
 8. User submit Komentar on article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
 9. User submit Balas on Komentar of article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
 10. User react on article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
