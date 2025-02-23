@@ -24,13 +24,13 @@ Test Cases for HIGO's Official Website:
 
 Test Cases for HIGO's Blog:
 1. User validate menu Blog
-2. User validate search article
+2. User validate search article ✔️
 3. User validate topic article chips
 4. User validate article detail from Artikel Terbaru
 5. User validate article detail from Artikel Populer
 6. User validate article detail from the Category list
 7. User validate topic article chips from Topik Populer
-8. User submit Komentar on article detail
+8. User submit Komentar on article detail ✔️
 9. User submit Balas on Komentar of article detail
 10. User react on article detail
 11. User like Komentar on article detail
