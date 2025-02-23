@@ -7,7 +7,7 @@ This automation script is for testing HIGO's Official Website & Blog
 This automation script is including:
 1. Test Case Scenario
 2. Fixtures
-3. Elements & Actions file
+3. Elements file
 
 Test Cases for HIGO's Official Website:
 1. User validate Home Page ✔️
