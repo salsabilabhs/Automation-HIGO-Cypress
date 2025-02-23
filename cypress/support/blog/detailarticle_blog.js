@@ -6,6 +6,11 @@ class detailarticle_blog {
 
     nama_error_msg="/html/body/main/div/div[2]/section[4]/form/div[1]/p"
     komentar_error_msg="/html/body/main/div/div[2]/section[4]/form/div[2]/p"
+
+    balas_btn="(//button[contains(text(),'Balas')])[1]"
+    balas_fieldnama="(//input[@placeholder='Tulis Nama Kamu'])[2]"
+    balas_fieldkomentar="(//textarea[@placeholder='Tulis Komentar Kamu'])[2]"
+    submit_balas_btn="(//button[@type='submit'][normalize-space()='Kirim'])[2]"
     
 }
 module.exports = new detailarticle_blog()
