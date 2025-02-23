@@ -30,7 +30,7 @@ Test Cases for HIGO's Blog:
 5. User validate article detail from Artikel Populer
 6. User validate article detail from the Category list
 7. User validate topic article chips from Topik Populer
-8. User submit Komentar on article detail ✔️
-9. User submit Balas on Komentar of article detail
-10. User react on article detail
-11. User like Komentar on article detail
+8. User submit Komentar on article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+9. User submit Balas on Komentar of article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+10. User react on article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
+11. User like Komentar on article detail ❌ (Element tidak bisa diinteract menggunakan automation. Perlu discuss dengan Dev)
